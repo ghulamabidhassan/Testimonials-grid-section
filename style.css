@@ -1,6 +1,6 @@
-@import "/default.css";
-@import "/mob.css" screen and (max-width: 26.25em);
-@import "/tab.css" screen and (min-width: 45.5em);
-@import "/medium.css" screen and (min-width: 64em);
-@import "/desktop.css" screen and (min-width: 85.375em);
-@import "/largedisplays.css" screen and (min-width: 120em);
+@import url(./default.css);
+@import url(./mob.css) screen and (max-width: 26.25em);
+@import url(./tab.css) screen and (min-width: 45.5em);
+@import url(./medium.csss) screen and (min-width: 64em);
+@import url(./desktop.css) screen and (min-width: 85.375em);
+@import url(./largedisplays.css) screen and (min-width: 120em);
