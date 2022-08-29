@@ -1,0 +1,43 @@
+.main {
+  padding: 10em;
+}
+
+.img img {
+  height: 3.2em;
+}
+
+.box {
+  max-height: 100%;
+}
+
+.names {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  font-size: 1.4em;
+}
+
+.sub {
+  font-size: 1.1em;
+}
+
+.row {
+  row-gap: 3em;
+  column-gap: 3em;
+}
+
+.content {
+  font-size: 1.4em;
+}
+
+.desc {
+  font-size: 1.1em;
+  line-height: auto;
+}
+/* 1920px wide screen */
+/* @media screen and (min-width: 120em) {
+} */

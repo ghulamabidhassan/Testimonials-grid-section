@@ -1,0 +1,9 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: Barlow Semi Condensed, sans-serif;
+}
+
+/* 420px wide screen */
+/* @media screen and (max-width: 26.25em) {
+} */

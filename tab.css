@@ -1,0 +1,28 @@
+.main {
+  padding: 3em;
+}
+
+.img img {
+  height: 4em;
+}
+
+.name {
+  font-size: 1.3em;
+}
+
+.sub {
+  font-size: 1em;
+}
+
+.content {
+  font-size: 1.7em;
+}
+
+.desc {
+  font-size: 1.2em;
+  line-height: 1.4em;
+}
+
+/* 728px wide screen */
+/* @media screen and (min-width: 45.5em) {
+} */

@@ -1,0 +1,32 @@
+.main {
+  padding: 5em 8em;
+}
+
+.img img {
+  height: 4.7em;
+}
+
+.name {
+  font-size: 1.6em;
+}
+
+.sub {
+  font-size: 1.4em;
+}
+
+.desc {
+  font-size: 1.38em;
+}
+
+.box {
+  border-radius: 14px;
+}
+
+.row {
+  display: grid;
+  row-gap: 2.3em;
+}
+
+/* 1024px wide screen */
+/* @media screen and (min-width: 64em) {
+} */
